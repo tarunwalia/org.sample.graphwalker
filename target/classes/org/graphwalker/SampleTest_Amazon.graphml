@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <!--Created by yEd 3.17.2-->
+  <key for="port" id="d0" yfiles.type="portgraphics"/>
+  <key for="port" id="d1" yfiles.type="portgeometry"/>
+  <key for="port" id="d2" yfiles.type="portuserdata"/>
+  <key attr.name="url" attr.type="string" for="node" id="d3"/>
+  <key attr.name="description" attr.type="string" for="node" id="d4"/>
+  <key for="node" id="d5" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="d6" yfiles.type="resources"/>
+  <key attr.name="url" attr.type="string" for="edge" id="d7"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d8"/>
+  <key for="edge" id="d9" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G">
+    <node id="n0">
+      <data key="d5">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="43.224609375" x="181.65515562996032" y="0.0"/>
+          <y:Fill color="#00FF00" color2="#CCFFCC" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="19.92626953125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="31.45361328125" x="5.885498046875" y="5.036865234375">Start</y:NodeLabel>
+          <y:Shape type="rectangle3d"/>
+          <y:DropShadow color="#B3A691" offsetX="1" offsetY="1"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n1">
+      <data key="d4"><![CDATA[Verify that the web browser is upp running. ]]></data>
+      <data key="d5">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="121.86572265625" x="142.33459898933532" y="77.962890625"/>
+          <y:Fill color="#FFCC00" color2="#FFFF00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="19.92626953125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="107.32080078125" x="7.2724609375" y="5.036865234375">v_BrowserStarted</y:NodeLabel>
+          <y:Shape type="rectangle3d"/>
+          <y:DropShadow color="#B3A691" offsetX="1" offsetY="1"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n2">
+      <data key="d3"/>
+      <data key="d4"><![CDATA[Verify that Amazon's home page is properly displayed.]]></data>
+      <data key="d5">
+        <y:ShapeNode>
+          <y:Geometry height="44.2529296875" width="147.72607421875" x="129.40442320808532" y="155.92578125"/>
+          <y:Fill color="#FFCC00" color2="#FFFF00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="71.863037109375" y="20.12646484375"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="68.03125" x="39.847412109375" y="12.77587890625">v_BaseURL<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle3d"/>
+          <y:DropShadow color="#B3A691" offsetX="1" offsetY="1"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n3">
+      <data key="d4"><![CDATA[Verify that the web browser is upp running. ]]></data>
+      <data key="d5">
+        <y:ShapeNode>
+          <y:Geometry height="38.25728155339806" width="196.32524271844665" x="123.57059823558075" y="422.71664517597094"/>
+          <y:Fill color="#FFCC00" color2="#FFFF00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="96.16262135922332" y="17.128640776699058"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="120.712890625" x="37.80617604672332" y="9.778054839199058">v_VerifyProductName<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle3d"/>
+          <y:DropShadow color="#B3A691" offsetX="1" offsetY="1"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n4">
+      <data key="d5">
+        <y:ShapeNode>
+          <y:Geometry height="44.2529296875" width="147.72607421875" x="147.87018248542907" y="289.32121321298547"/>
+          <y:Fill color="#FFCC00" color2="#FFFF00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="19.92626953125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="95.76806640625" x="25.97900390625" y="12.163330078125">v_SearchResult</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="71.863037109375" y="20.12646484375">
+            <y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle3d"/>
+          <y:DropShadow color="#B3A691" offsetX="1" offsetY="1"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <edge id="e0" source="n0" target="n1">
+      <data key="d8"><![CDATA[Start the test.]]></data>
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="15.0" tx="0.0" ty="-15.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFF99" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" lineColor="#FFFF00" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="86.69921875" x="-43.34960511222721" y="14.630859375">e_StartBrowser<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="on_edge" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e1" source="n1" target="n2">
+      <data key="d8"><![CDATA[Enter the URL 'http://www.amazon.com' and press enter.]]></data>
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="15.0" tx="0.0" ty="-22.12646484375"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFF99" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" lineColor="#FFFF00" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="97.38671875" x="-48.69335511222718" y="14.630859375">e_EnterBaseURL<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="on_edge" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e2" source="n2" target="n4">
+      <data key="d8"><![CDATA[In the search field, enter 'Model-based testing', and press enter.]]></data>
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="22.12646484375" tx="-18.46575927734375" ty="-22.12646484375"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFF99" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" lineColor="#FFFF00" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="82.720703125" x="-32.68970082107097" y="26.71463516383494">e_SearchBook<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="on_edge" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e3" source="n4" target="n3">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFF99" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" lineColor="#FFFF00" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-1.9999957372271808" y="-0.14411881826453055">
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="on_edge" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFF99" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" lineColor="#FFFF00" modelName="free" modelPosition="anywhere" preferredPlacement="on_edge" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="117.408203125" x="-50.805035341133134" y="33.693890321601884">e_ProductDetailPage<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" placement="anywhere" side="on_edge" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+  </graph>
+  <data key="d6">
+    <y:Resources/>
+  </data>
+</graphml>
